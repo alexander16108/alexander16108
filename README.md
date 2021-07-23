@@ -1,6 +1,6 @@
 # <h2 style="color:blue;"><bold>Hello There :) </bold> I'm Alexander Mayowa Odufuye <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100px"></h2> 
   
-   <p><em> Young and aspiring Full-stack developer willing to work anywhere from anywhere </em>  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="70px"></p>
+   <p><em> Young and aspiring Full-stack developer willing and available for hire to work anywhere from anywhere </em>  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="70px"></p>
    <img src="https://media.giphy.com/media/9E8YAeiYli6btFF8Q5/giphy.gif" width="220px" align= "right">
   
   
