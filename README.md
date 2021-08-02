@@ -4,15 +4,21 @@
    <h3 align="center" margin-bottom="10px" >readily available for the next project or job</h3>
                                                <br/>
                                                <br/>
-  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="200px" align="right">
-  
+                                     
+
 <!--   [![Facebook connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ah.ziayousufi) -->
 [![Linkedin connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-odufuye-9298511a4/)
 [![Linkedin connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingrex/)
 [![Linkedin connect](https://img.shields.io/badge/angellist-E4119F?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/alexander-mayowa)
-[![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical)](https://github.com/alexander16108)
 
 
+  <a href="https://github.com/alexander16108/alexander16108">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical"/>
+</a>
+
+<a href="https://github.com/alexander16108/alexander16108">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+</a>
 
 - 🔭 I’m currently working on mastering javascript
 - 🌱 I’m currently learning with Microverse and Partner from all over the globe
