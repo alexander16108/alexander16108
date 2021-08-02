@@ -1,4 +1,4 @@
-<h1><bold>Hello There :) </bold> I'm Alexander Mayowa Odufuye <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100px"></h1>
+<h1><bold>Hello There 👋 </bold> I'm Alexander <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100px"></h1>
 
    <h4 align="center">Young and aspiring Full-stack developer willing and available for hire to work anywhere from anywhere</h4>
    <h3 align="center" margin-bottom="10px" >readily available for the next project or job</h3>
@@ -11,14 +11,16 @@
 [![Linkedin connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingrex/)
 [![Linkedin connect](https://img.shields.io/badge/angellist-E4119F?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/alexander-mayowa)
 
-
   <a href="https://github.com/alexander16108/alexander16108">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical"/>
 </a>
 
-<a href="https://github.com/alexander16108/alexander16108">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+<a href="https://github.com/alexander16108/alexander16108">   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
 </a>
+
+   <br/>
+   <br/>
 
 - 🔭 I’m currently working on mastering javascript
 - 🌱 I’m currently learning with Microverse and Partner from all over the globe
