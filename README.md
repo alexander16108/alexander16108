@@ -17,9 +17,8 @@
 <br/>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" align="right" padding-bottom="60px">
 <br/>
-<a href="https://github.com/alexander16108/alexander16108">   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
-</a>
+[![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexander16108)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
