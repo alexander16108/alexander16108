@@ -7,20 +7,20 @@
                                                <br/>
                                      
 
-[![Linkedin connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-odufuye-9298511a4/)
-[![Linkedin connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingrex/)
-[![Linkedin connect](https://img.shields.io/badge/angellist-E4119F?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/alexander-mayowa)
 
+<p align="center">
   <a href="https://github.com/alexander16108/alexander16108">
-   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical" padding-left="40px"/>
 </a>
+  <a href="https://github.com/alexander16108/alexander16108">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&langs_count=8l"/>
+</a>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&langs_count=8)](https://github.com/alexander16108/github-readme-stats) -->
+
 <br/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" align="right" padding-bottom="60px">
 <br/>
-[![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexander16108)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
    <br/>
@@ -34,3 +34,11 @@
 - 📫 How to reach me: through the links above 
 - 😄 Pronouns: HIM/HE
 - ⚡ Fun fact: Human have explored space more than the have explored the earth 🆒
+
+
+   <br/>
+   <br/>
+
+**Contact ME:** [![Linkedin connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-odufuye-9298511a4/)
+[![Linkedin connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingrex/)
+[![Linkedin connect](https://img.shields.io/badge/angellist-E4119F?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/alexander-mayowa)
