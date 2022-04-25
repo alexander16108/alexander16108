@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/alexander16108/alexander16108">
-   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical" padding-left="40px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical" color="blue" padding-left="40px"/>
 </a>
 </p>
 
@@ -24,7 +24,7 @@
    <br/>
    
    **More About Me**
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexander16108&count_bg=%2326817D&title_bg=%231F363C&icon=&icon_color=%23E7E7E7&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexander16108&count_bg=%2326817D&title_bg=%231F363C&icon=&icon_color=%red&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 - 🔭 I’m currently working on mastering javascript
