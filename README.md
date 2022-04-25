@@ -14,8 +14,8 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&langs_count=8)](https://github.com/alexander16108/github-readme-stats)
-&nbsp;  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexander16108&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander16108&theme=radical&langs_count=8)](https://github.com/alexander16108/github-readme-stats)
+&nbsp;  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexander16108&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br/>
 <br/>
 
@@ -24,7 +24,7 @@
    <br/>
    
    **More About Me**
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexander16108&count_bg=%2326817D&title_bg=%231F363C&icon=&icon_color=%red&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexander16108&count_bg=%2326817D&title_bg=%231F363C&icon=&theme=radical&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 - 🔭 I’m currently working on mastering javascript
