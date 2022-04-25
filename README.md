@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/alexander16108/alexander16108">
-   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical" color="blue" padding-left="40px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=alexander16108&count_private=true&show_icons=true&theme=radical padding-left="40px"/>
 </a>
 </p>
 
