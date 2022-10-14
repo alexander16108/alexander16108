@@ -42,4 +42,4 @@
 
 **Contact ME:** [![Linkedin connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coderrex/)
 [![Linkedin connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingrex/)
-[![Linkedin connect](https://img.shields.io/badge/angellist-E4119F?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/alexander-mayowa)
+[![Linkedin connect](https://img.shields.io/badge/angellist-E4119F?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/codingrex)
