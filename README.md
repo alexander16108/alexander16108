@@ -29,12 +29,12 @@
 
 - 🔭 I’m currently working on mastering javascript
 - 🌱 I’m currently learning with Microverse and Partner from all over the globe
-- 👯 I’m looking to collaborate on any project
+- 👯 I’m looking to collaborate on any new project
 - 🤔 I’m looking for help with Learning more about javascript
 - 💬 Ask me anything about HTML and CSS 😉
-- 📫 How to reach me: through the links above 
+- 📫 How to reach me: through the links below 
 - 😄 Pronouns: HIM/HE
-- ⚡ Fun fact: Human have explored space more than the have explored the earth 🆒
+- ⚡ Fun fact: Human have explored space more than the have explored the ocean 🆒
 
 
    <br/>
