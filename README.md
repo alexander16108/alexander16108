@@ -27,14 +27,14 @@
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexander16108&count_bg=%2326817D&title_bg=%231F363C&icon=&theme=radical&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- 🔭 I’m currently working on mastering javascript
-- 🌱 I’m currently learning with Microverse and Partner from all over the globe
+- 🔭 I’m currently working on mastering JavaScript
+- 🌱 I’m currently learning with Microverse and partners from all over the globe
 - 👯 I’m looking to collaborate on any new project
-- 🤔 I’m looking for help with Learning more about javascript
+- 🤔 I’m looking for help with learning more about javascript
 - 💬 Ask me anything about HTML and CSS 😉
 - 📫 How to reach me: through the links below 
 - 😄 Pronouns: HIM/HE
-- ⚡ Fun fact: Human have explored space more than the have explored the ocean 🆒
+- ⚡ Fun fact: Humans have explored space more than they have explored the ocean 🆒
 
 
    <br/>
