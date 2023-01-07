@@ -1,8 +1,8 @@
 <h1 align="center"><bold>Hi There 👋 </bold> I'm Alexander <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100px"></h1>
 
-   <h3 align="center">Young Full-stack developer willing and available for hire to work anywhere from anywhere</h3>
+   <h2 align="center">Full-stack developer willing and available for hire to work anywhere from anywhere</h2>
    
-   <h5 align="center" margin-bottom="10px" > I am a frontend developer :computer: currently strengthening my skills at Microverse an online school that trains people globally (and full-time) to become world class remote software developers. It is a very selective program, since the admission rate is less than 1% of applications. </h5>
+   <h4 align="center" margin-bottom="10px" >I am a frontend developer 💻 currently strengthening my skills at Microverse an online school that trains people globally (and full-time) to become world-class remote software developers. It is a very selective program since the admission rate is less than 1% of applications. </h4>
                                                <br/>
                                                <br/>
                                      
